@@ -1,1 +1,1 @@
-# US-Airline-Sentiment-Analysis
+Financial Sentiment-Analysis
