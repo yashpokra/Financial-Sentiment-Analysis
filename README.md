@@ -1,5 +1,5 @@
 ### Financial Sentiment-Analysis
 
-This project aims to demonstrate applying NLP techniques to perform sentiment analysis. 
+This project focuses on applying NLP techniques to perform sentiment analysis. 
 
 
